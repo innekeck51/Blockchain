@@ -1,7 +1,7 @@
 # Blockchain
 learn about blockchain, with a simple case
 
-#Istallation
+# Installation
 1. Install Python 3.6+
 2. Install [pipenv](https://github.com/kennethreitz/pipenv)
 ```Python
@@ -15,7 +15,7 @@ pipenv install
 - ``` pipenv run python blockchain.py```
 - ``` pipenv run python blockchain.py -p 5001```
 - ``` pipenv run python blockchain.py --port 5002```
-#Docker
+# Docker
 Intruction to create a local Docker container:
 1. Clone this respository
 2. Build the docker container
